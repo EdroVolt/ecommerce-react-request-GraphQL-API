@@ -1,0 +1,16 @@
+.product-card {
+  padding: 1rem;
+}
+
+.product-card:hover {
+  box-shadow: 0px 4px 35px rgba(168, 172, 176, 0.19);
+}
+
+.product-card-body {
+  margin-top: 1.5rem;
+}
+
+.out-of-stock {
+  opacity: 0.5;
+  /* TODO: add "word out of stock" */
+}
